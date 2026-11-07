@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19273,
+          "bbox": [
+            38,
+            6,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 59
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19289,
+          "bbox": [
+            38,
+            6,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19287,
+          "bbox": [
+            37,
+            6,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 135
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19324,
+          "bbox": [
+            37,
+            6,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19316,
+          "bbox": [
+            38,
+            6,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19286,
+          "bbox": [
+            38,
+            6,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 78
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16946,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16456,
+          "bbox": [
+            33,
+            5,
+            159,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16992,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16237,
+          "bbox": [
+            33,
+            5,
+            159,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16966,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 194
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16441,
+          "bbox": [
+            33,
+            5,
+            159,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 205
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16996,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16359,
+          "bbox": [
+            33,
+            5,
+            159,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 232
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17136,
+          "bbox": [
+            38,
+            8,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 131
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16905,
+          "bbox": [
+            38,
+            8,
+            154,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 99
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16284,
+          "bbox": [
+            38,
+            5,
+            154,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 187
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16963,
+          "bbox": [
+            38,
+            7,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 144
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17144,
+          "bbox": [
+            38,
+            8,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 110
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16397,
+          "bbox": [
+            39,
+            8,
+            153,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 92
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16170,
+          "bbox": [
+            40,
+            5,
+            153,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 98
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17045,
+          "bbox": [
+            38,
+            8,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20265,
+          "bbox": [
+            35,
+            6,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 26
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20234,
+          "bbox": [
+            36,
+            6,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 22
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20241,
+          "bbox": [
+            35,
+            6,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 26
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20235,
+          "bbox": [
+            35,
+            6,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17345,
+          "bbox": [
+            42,
+            12,
+            151,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 22
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16872,
+          "bbox": [
+            42,
+            17,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 63
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16580,
+          "bbox": [
+            42,
+            6,
+            151,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 71
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16718,
+          "bbox": [
+            42,
+            13,
+            151,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 115
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17265,
+          "bbox": [
+            42,
+            12,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19734,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 156
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19666,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 185
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19684,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19593,
+          "bbox": [
+            34,
+            8,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 162
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19171,
+          "bbox": [
+            34,
+            15,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 120
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19674,
+          "bbox": [
+            34,
+            7,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19609,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 143
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19722,
+          "bbox": [
+            34,
+            5,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19634,
+          "bbox": [
+            35,
+            5,
+            156,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 92
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19512,
+          "bbox": [
+            34,
+            5,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19021,
+          "bbox": [
+            33,
+            5,
+            158,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18942,
+          "bbox": [
+            33,
+            5,
+            158,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 87
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18839,
+          "bbox": [
+            34,
+            5,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19882,
+          "bbox": [
+            34,
+            5,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 273
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20597,
+          "bbox": [
+            32,
+            6,
+            159,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 51
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20345,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 71
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20488,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 93
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20615,
+          "bbox": [
+            32,
+            6,
+            159,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20346,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 74
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20616,
+          "bbox": [
+            32,
+            6,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19683,
+          "bbox": [
+            35,
+            6,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 70
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19688,
+          "bbox": [
+            35,
+            6,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 62
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19656,
+          "bbox": [
+            34,
+            5,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19422,
+          "bbox": [
+            34,
+            5,
+            158,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 95
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19686,
+          "bbox": [
+            35,
+            6,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 81
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\fearless-approved\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19695,
+          "bbox": [
+            35,
+            6,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 55
+        }
+      ]
+    }
+  ]
+}

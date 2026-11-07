@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12317,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12352,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12336,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12363,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 150
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12352,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 210
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12308,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 151
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13332,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 225
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13028,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13136,
+          "bbox": [
+            28,
+            5,
+            164,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13281,
+          "bbox": [
+            28,
+            5,
+            164,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 258
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12931,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 208
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12780,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 199
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12839,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13478,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 243
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13271,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 234
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12621,
+          "bbox": [
+            26,
+            5,
+            166,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 216
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12553,
+          "bbox": [
+            26,
+            5,
+            165,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13167,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 221
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12723,
+          "bbox": [
+            26,
+            5,
+            166,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 225
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12450,
+          "bbox": [
+            27,
+            5,
+            165,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12621,
+          "bbox": [
+            27,
+            5,
+            165,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 190
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13310,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 217
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12149,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 116
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12217,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 103
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12386,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 97
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12067,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 91
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11017,
+          "bbox": [
+            38,
+            15,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 125
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10664,
+          "bbox": [
+            38,
+            12,
+            154,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 129
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10333,
+          "bbox": [
+            38,
+            5,
+            154,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 129
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10454,
+          "bbox": [
+            38,
+            14,
+            154,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 117
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10977,
+          "bbox": [
+            38,
+            15,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 147
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12664,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12613,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12468,
+          "bbox": [
+            36,
+            8,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 167
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12200,
+          "bbox": [
+            37,
+            13,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 142
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11624,
+          "bbox": [
+            38,
+            24,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 168
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12244,
+          "bbox": [
+            37,
+            13,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 183
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12486,
+          "bbox": [
+            37,
+            7,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12581,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 234
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12330,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 159
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12343,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12445,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12469,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 156
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12488,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12466,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 183
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12145,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12156,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12104,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12139,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12122,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12155,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 183
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11940,
+          "bbox": [
+            35,
+            7,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11809,
+          "bbox": [
+            35,
+            9,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 158
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11928,
+          "bbox": [
+            35,
+            8,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 137
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11991,
+          "bbox": [
+            35,
+            8,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 185
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12118,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 134
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11904,
+          "bbox": [
+            35,
+            7,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 176
+        }
+      ]
+    }
+  ]
+}

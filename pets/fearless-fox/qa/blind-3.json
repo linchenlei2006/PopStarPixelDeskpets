@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Nose offset and gaze direction relative to face center."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Nose offset and gaze direction relative to face center."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Nose offset and gaze direction relative to face center."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Nose offset and gaze direction relative to face center."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Nose offset and gaze direction relative to face center."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Nose offset and gaze direction relative to face center."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "ambiguous",
+      "reason": "A nose and gaze angle screen-right; B nose and eyes appear centered."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "Eye line, visible forehead, and nose/chin placement indicate head pitch."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "Eye line, visible forehead, and nose/chin placement indicate head pitch."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "Eye line, visible forehead, and nose/chin placement indicate head pitch."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "up",
+      "reason": "Eye line, visible forehead, and nose/chin placement indicate head pitch."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "Eye line, visible forehead, and nose/chin placement indicate head pitch."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "Eye line, visible forehead, and nose/chin placement indicate head pitch."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "Eye line, visible forehead, and nose/chin placement indicate head pitch."
+    }
+  ]
+}

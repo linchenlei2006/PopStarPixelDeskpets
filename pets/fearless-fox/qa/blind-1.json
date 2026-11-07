@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "reason": "Nose and face center shift left/right relative to hair; opposite cheek and ear exposure.",
+      "B": "screen-right",
+      "A": "screen-left",
+      "pair": "horizontal-1"
+    },
+    {
+      "reason": "Nose points left/right, with ear exposed on opposite side.",
+      "B": "screen-right",
+      "A": "screen-left",
+      "pair": "horizontal-2"
+    },
+    {
+      "reason": "Facial center and cheek orientation shift left/right within hair.",
+      "B": "screen-right",
+      "A": "screen-left",
+      "pair": "horizontal-3"
+    },
+    {
+      "reason": "Face center and nose angle left/right, with opposite ear visible.",
+      "B": "screen-right",
+      "A": "screen-left",
+      "pair": "horizontal-4"
+    },
+    {
+      "reason": "Nose and mouth displaced toward right/left from hair center.",
+      "B": "screen-left",
+      "A": "screen-right",
+      "pair": "horizontal-5"
+    },
+    {
+      "reason": "Subtle nose and cheek orientation left/right.",
+      "B": "screen-right",
+      "A": "screen-left",
+      "pair": "horizontal-6"
+    },
+    {
+      "reason": "Subtle face center and nose displacement right/left.",
+      "B": "screen-left",
+      "A": "screen-right",
+      "pair": "horizontal-7"
+    },
+    {
+      "reason": "A has raised chin and eyes under bangs; B has lowered facial plane and greater crown exposure.",
+      "B": "down",
+      "A": "up",
+      "pair": "vertical-1"
+    },
+    {
+      "reason": "A chin lifted and face shortened toward hairline; B face lowered beneath expanded crown.",
+      "B": "down",
+      "A": "up",
+      "pair": "vertical-2"
+    },
+    {
+      "reason": "A gaze and nose lowered under bangs; B lifted chin and elevated face.",
+      "B": "up",
+      "A": "down",
+      "pair": "vertical-3"
+    },
+    {
+      "reason": "Both show lifted face and chin with eyes high under bangs; B lift is milder.",
+      "B": "up",
+      "A": "up",
+      "pair": "vertical-4"
+    },
+    {
+      "reason": "A lowered eyes and chin, B elevated face with lifted chin.",
+      "B": "up",
+      "A": "down",
+      "pair": "vertical-5"
+    },
+    {
+      "reason": "A crown prominent and facial plane lowered; B face lifted and chin raised.",
+      "B": "up",
+      "A": "down",
+      "pair": "vertical-6"
+    },
+    {
+      "reason": "A near-level face gives no clear vertical tilt; B eyes and nose lowered under expanded crown.",
+      "B": "down",
+      "A": "ambiguous",
+      "pair": "vertical-7"
+    }
+  ]
+}

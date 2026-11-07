@@ -1,0 +1,118 @@
+{
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Chin raised, nose points upward; pupils lie high in visible eye whites, face broadly frontal."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Eyes lifted and face/nose just right of head center; horizontal cue subtle near vertical."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Raised chin and high irises combine with nose and face shifted viewer-right."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Rightward face yaw is clear; upper iris placement retains slight upward component."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Nose tip and visible face point viewer-right; irises target right side of eye whites."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Head yaw remains right, chin begins lowering and gaze sits slightly lower; vertical component subtle."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Right-shifted nose with lowered eyes, visible forehead and tucked chin."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Chin tucked farther, eyes lowered; nose/face still point to viewer-right."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Head frontal with lowered chin, enlarged visible forehead and open irises aimed down."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Eyes lowered and chin tucked; nose and facial surface start shifting viewer-left."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Clear viewer-left facial yaw, eyes and nose angle downward below head center."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "evidence": "Leftward nose/face obvious; slightly lowered chin and irises provide subtle downward component."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Left profile with nose protruding viewer-left; visible eye targets left."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "evidence": "Face and nose viewer-left, raised chin and high iris show upward gaze."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Raised nose and high pupils, left yaw retained; neck extended naturally."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "evidence": "Strong upward chin/eyes, nose slightly left of head center; horizontal cue subtle near vertical."
+    }
+  ],
+  "continuity_review": "Reviewed final labeled sheet and ordered frames. The two row boundaries have larger pixel changes from head yaw returning toward frontal. Feet, mic hand and body remain anchored, no visible scale pop or reversal. No alpha holes. Subtle intermediate axes are accepted with warnings.",
+  "blind_review_followup": "All four cardinal axes pass independent majority. 112.5 vertical majority up and292.5 ambiguous: labeled normal-size review compared neighbors;112.5 head/chin lowers versus090 and nose sits lower,292.5 chin/face elevates versus270. Direction steps shallow but correct broad arc; accepted warnings without wrong quadrant or loop reversal."
+}

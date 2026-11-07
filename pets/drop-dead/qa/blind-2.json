@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "A": "screen-right",
+      "pair": "horizontal-1",
+      "B": "screen-left",
+      "reason": "Nose, chin and iris centers shift right in A and left in B."
+    },
+    {
+      "A": "screen-left",
+      "pair": "horizontal-2",
+      "B": "screen-right",
+      "reason": "Face projection and pupils point left in A and right in B."
+    },
+    {
+      "A": "screen-right",
+      "pair": "horizontal-3",
+      "B": "screen-left",
+      "reason": "Nose and chin orientation and iris offsets favor right in A, left in B."
+    },
+    {
+      "A": "screen-left",
+      "pair": "horizontal-4",
+      "B": "screen-right",
+      "reason": "Nose projects left in A and right in B, supported by eye placement."
+    },
+    {
+      "A": "screen-right",
+      "pair": "horizontal-5",
+      "B": "screen-left",
+      "reason": "Nose and iris positions favor right in A and left in B."
+    },
+    {
+      "A": "screen-left",
+      "pair": "horizontal-6",
+      "B": "ambiguous",
+      "reason": "A has leftward nose and iris bias. B is nearly frontal with no clear lateral nose or chin displacement."
+    },
+    {
+      "A": "ambiguous",
+      "pair": "horizontal-7",
+      "B": "ambiguous",
+      "reason": "Both lowered faces are close to centered; nose, chin and iris offsets do not establish a reliable lateral direction."
+    },
+    {
+      "A": "up",
+      "pair": "vertical-1",
+      "B": "down",
+      "reason": "A has lifted gaze and exposed chin; B has lowered eyes and tucked chin."
+    },
+    {
+      "A": "up",
+      "pair": "vertical-2",
+      "B": "down",
+      "reason": "A iris placement and lifted face favor up; B lowered eyes and chin favor down."
+    },
+    {
+      "A": "down",
+      "pair": "vertical-3",
+      "B": "up",
+      "reason": "A eyes and chin angle downward; B has higher gaze and lifted nose/chin."
+    },
+    {
+      "A": "ambiguous",
+      "pair": "vertical-4",
+      "B": "ambiguous",
+      "reason": "Both faces appear largely level; nose, chin and irises give insufficient clear vertical distinction."
+    },
+    {
+      "A": "down",
+      "pair": "vertical-5",
+      "B": "up",
+      "reason": "A tucked chin and low gaze contrast with B lifted face and high irises."
+    },
+    {
+      "A": "down",
+      "pair": "vertical-6",
+      "B": "up",
+      "reason": "A lowered nose/chin and gaze; B lifted nose/chin and gaze."
+    },
+    {
+      "A": "up",
+      "pair": "vertical-7",
+      "B": "down",
+      "reason": "A face and iris elevation favor up; B tucked chin and lowered gaze favor down."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "jumping",
+      "frames": [
+        "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\qa\\rows\\jumping\\frames\\jumping\\00.png",
+        "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\qa\\rows\\jumping\\frames\\jumping\\01.png",
+        "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\qa\\rows\\jumping\\frames\\jumping\\02.png",
+        "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\qa\\rows\\jumping\\frames\\jumping\\03.png",
+        "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\work\\drop-dead-pixel\\qa\\rows\\jumping\\frames\\jumping\\04.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

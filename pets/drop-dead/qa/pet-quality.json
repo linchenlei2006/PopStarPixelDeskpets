@@ -1,0 +1,72 @@
+{
+  "ok": true,
+  "atlas": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\outputs\\Pets\\Drop-Dead-Pixel\\spritesheet.png",
+  "encoded_bytes": 2852630,
+  "sha256": "19120d42b815284d4aaa18aa357e76dfd96d52da6e9d01d224262441f953ab4a",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      188,
+      176,
+      189,
+      202
+    ],
+    "airborne_lift_pixels": 26,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      94.5,
+      93.0,
+      93.5,
+      92.5,
+      93.5,
+      93.5,
+      92.5,
+      91.5,
+      93.0,
+      92.5,
+      93.5,
+      92.5,
+      94.0,
+      93.0,
+      92.0,
+      91.0
+    ],
+    "look_widths": [
+      117,
+      116,
+      117,
+      117,
+      117,
+      117,
+      117,
+      115,
+      116,
+      115,
+      115,
+      115,
+      114,
+      114,
+      114,
+      114
+    ],
+    "maximum_center_drift_pixels": 5.0,
+    "maximum_width_ratio": 1.0263157894736843
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "157.5->180 diff is a local outlier (1420 pixels vs neighbor average 854)",
+    "337.5->000 diff is a local outlier (2394 pixels vs neighbor average 1102)"
+  ]
+}

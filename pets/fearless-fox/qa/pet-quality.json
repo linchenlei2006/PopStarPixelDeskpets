@@ -1,0 +1,72 @@
+{
+  "ok": true,
+  "atlas": "C:\\Users\\\u6797\u6668\u857e\\Documents\\Codex\\2026-10-31\\pets-plugin-work-pets-openai-curated\\outputs\\Pets\\Fearless-Approved\\spritesheet.png",
+  "encoded_bytes": 3348244,
+  "sha256": "8c59e2536bdbc29c747bbc89390f4927a31aa3299643e91d979afdbbe5605d69",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      202,
+      187,
+      196,
+      202
+    ],
+    "airborne_lift_pixels": 15,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      95.0,
+      95.5,
+      96.0,
+      96.0,
+      95.0,
+      95.5,
+      95.5,
+      95.5,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.5
+    ],
+    "look_widths": [
+      112,
+      111,
+      112,
+      112,
+      112,
+      111,
+      111,
+      111,
+      112,
+      112,
+      112,
+      112,
+      112,
+      112,
+      112,
+      113
+    ],
+    "maximum_center_drift_pixels": 0.5,
+    "maximum_width_ratio": 1.018018018018018
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "look direction 337.5 accepted with a reviewed warning",
+    "067.5->090 diff is a local outlier (814 pixels vs neighbor average 453)",
+    "157.5->180 diff is a local outlier (693 pixels vs neighbor average 336)"
+  ]
+}

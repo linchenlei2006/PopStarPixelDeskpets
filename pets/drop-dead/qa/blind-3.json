@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "B": "screen-left",
+      "A": "screen-right",
+      "pair": "horizontal-1",
+      "reason": "Nose and chin offset right in A and left in B; irises follow."
+    },
+    {
+      "B": "screen-right",
+      "A": "screen-left",
+      "pair": "horizontal-2",
+      "reason": "Nose, chin and iris direction shift left in A and right in B."
+    },
+    {
+      "B": "screen-left",
+      "A": "screen-right",
+      "pair": "horizontal-3",
+      "reason": "A nose and chin favor right; B nose and chin favor left with matching irises."
+    },
+    {
+      "B": "screen-right",
+      "A": "screen-left",
+      "pair": "horizontal-4",
+      "reason": "Nose and chin point left in A and right in B; eyes support each turn."
+    },
+    {
+      "B": "screen-left",
+      "A": "screen-right",
+      "pair": "horizontal-5",
+      "reason": "A facial landmarks drift right; B nose and chin drift left with leftward irises."
+    },
+    {
+      "B": "screen-right",
+      "A": "screen-left",
+      "pair": "horizontal-6",
+      "reason": "Lowered faces retain leftward nose and chin in A and rightward offset in B."
+    },
+    {
+      "B": "ambiguous",
+      "A": "ambiguous",
+      "pair": "horizontal-7",
+      "reason": "Both lowered faces appear nearly frontal; nose, chin and irises give insufficient lateral evidence."
+    },
+    {
+      "B": "down",
+      "A": "up",
+      "pair": "vertical-1",
+      "reason": "A raised chin and high irises contrast with B lowered nose and chin and compressed eyes."
+    },
+    {
+      "B": "down",
+      "A": "up",
+      "pair": "vertical-2",
+      "reason": "A chin lifts and eyes look high; B chin tucks and irises look lower."
+    },
+    {
+      "B": "up",
+      "A": "down",
+      "pair": "vertical-3",
+      "reason": "A nose and chin sit lower beneath narrowed eyes; B chin and irises lift."
+    },
+    {
+      "B": "up",
+      "A": "down",
+      "pair": "vertical-4",
+      "reason": "A chin is tucked with lower irises; B chin and gaze are raised."
+    },
+    {
+      "B": "up",
+      "A": "down",
+      "pair": "vertical-5",
+      "reason": "A lowered chin and compressed eyes contrast with B lifted chin and upward irises."
+    },
+    {
+      "B": "up",
+      "A": "down",
+      "pair": "vertical-6",
+      "reason": "A nose and chin angle downward; B chin lifts with higher irises."
+    },
+    {
+      "B": "down",
+      "A": "up",
+      "pair": "vertical-7",
+      "reason": "A raised chin and high gaze contrast with B tucked chin and downward nose angle."
+    }
+  ]
+}
